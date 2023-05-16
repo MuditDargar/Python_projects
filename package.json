@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "subprocess": "^0.3.0"
+  }
+}
